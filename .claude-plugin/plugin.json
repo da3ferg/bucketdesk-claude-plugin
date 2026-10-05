@@ -9,6 +9,8 @@
   },
   "homepage": "https://bucketdesk.com/blog/connect-bucketdesk-to-claude-and-chatgpt",
   "license": "MIT",
+  "privacyPolicyUrl": "https://bucketdesk.com/privacy",
+  "icon": "icon.png",
   "keywords": [
     "s3",
     "aws",
