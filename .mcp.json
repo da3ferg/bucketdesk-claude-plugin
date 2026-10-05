@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bucketdesk": {
+      "type": "http",
+      "url": "https://app.bucketdesk.com/mcp"
+    }
+  }
+}
