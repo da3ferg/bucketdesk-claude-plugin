@@ -1,17 +1,4 @@
-{{
-  "name": "bucketdesk",
-  "displayName": "BucketDesk",
-  "version": "1.0.0",
-  "description": "Find, read, summarize and share files in the Amazon S3 buckets connected to your BucketDesk workspace.",
-  "author": {
-    "name": "BucketDesk",
-    "url": "https://bucketdesk.com"
-  },
-  "homepage": "https://bucketdesk.com/blog/connect-bucketdesk-to-claude-and-chatgpt",
-  "license": "MIT",
-  "keywords": ["s3", "aws", "files", "storage", "documents"]
-}
-claude-plugin/plugin.json
+{
   "name": "bucketdesk",
   "displayName": "BucketDesk",
   "version": "1.0.0",
