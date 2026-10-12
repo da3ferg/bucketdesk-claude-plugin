@@ -1,7 +1,7 @@
 {
   "name": "bucketdesk",
   "displayName": "BucketDesk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find, read, summarize and share files in the Amazon S3 buckets connected to your BucketDesk workspace.",
   "author": {
     "name": "BucketDesk",
