@@ -14,7 +14,7 @@ The plugin runs no local code, hooks or scripts, and installs no packages.
 
 ## Requirements
 
-A BucketDesk Business workspace with at least one S3 bucket connected. You sign in as a workspace admin. Answering
+A BucketDesk Ultra workspace with at least one S3 bucket connected. You sign in as a workspace admin. Answering
 questions about PDFs and Office files also needs document chat turned on for that bucket's connection.
 
 ## Sign-in and data
