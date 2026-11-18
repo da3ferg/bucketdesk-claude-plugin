@@ -31,6 +31,7 @@ metadata, archive job status. Tools that ask before running: ask a question abou
 ## Links
 
 - Setup guide: https://bucketdesk.com/blog/connect-bucketdesk-to-claude-and-chatgpt
+- S3 pricing and costs, with worked monthly bills: https://bucketdesk.com/blog/amazon-s3-pricing-for-business-file-storage
 - Privacy notice: https://bucketdesk.com/privacy
 - Terms: https://bucketdesk.com/terms
 - Support: https://bucketdesk.com/contact
